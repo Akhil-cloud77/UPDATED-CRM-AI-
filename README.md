@@ -3,8 +3,13 @@ GenAI concepts used:
  - Retrieval Augmented Generation (RAG)
  - LLM based reasoning
  - AI Sales Assistant
- - Intent classification
-sample output:
+ - Intent classification      
+ 
+ 
+ 
+ 
+ 
+ sample output:
 {
  "lead_score": 85,
  "intent_level": "High Buying Intent",
